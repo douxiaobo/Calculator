@@ -72,7 +72,7 @@
             this.机型转换ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(726, 32);
+            this.menuStrip1.Size = new System.Drawing.Size(710, 32);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -394,7 +394,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(726, 450);
+            this.ClientSize = new System.Drawing.Size(710, 459);
             this.Controls.Add(this.BtClear);
             this.Controls.Add(this.BtIn);
             this.Controls.Add(this.BtLog);
